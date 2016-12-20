@@ -1,0 +1,13 @@
+.DS_Store
+/.git
+/coverage
+/jsdoc
+/node_modules
+*.log
+*.swp
+/npm-debug.log
+/.gradle
+/build
+.idea/
+*.iml
+yarn.lock
